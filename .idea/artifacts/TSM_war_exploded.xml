@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="TSM:war exploded">
+    <output-path>$PROJECT_DIR$/target/TSM</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="TSM/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="TSM" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
